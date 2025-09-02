@@ -1,0 +1,1 @@
+Nand game is a fun puzzle game that lets you build a computer from scratch!. The game starts with building a NAND gate, and progressively introduces other components as you solve the puzzles. It is a cool way to learn how logic gates and other components can be combined to create more complex digital circuits and eventually build a computer :)
